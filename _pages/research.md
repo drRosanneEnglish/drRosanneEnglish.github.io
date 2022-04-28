@@ -7,7 +7,12 @@ permalink: /research/
 ### Publications
 
 ## 2022
-To Appear
+To Appear:
+
+Designing and Developing a Scenario Based Curriculum for Cyber Education in HE, English, R., 2022, (Accepted/In press) Cybersecurity Teaching in Higher Education. Springer 
+
+Challenges and Opportunities of Teaching Cybersecurity in Mainstream Computing Programmes in the U.K.
+Prickett, T., Yang, L., Irons, A., Miller, K., Brooke, P., Crick, T., Hayes, A., Davenport, J. H., English, R., Maguire, J., Bechkoum, K. & Jones, A., 2022, (Accepted/In press) Cybersecurity Teaching in Higher Education.
 
 ## 2021
 Opportunities to fail: using peer-review to support assessment literacy in cyber security
