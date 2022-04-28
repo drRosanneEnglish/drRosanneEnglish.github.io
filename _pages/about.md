@@ -2,28 +2,7 @@
 layout: page
 title: About
 permalink: /about/
----
+--- 
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Associate Dean of Learning Enhancement (Science) and Senior Teaching Fellow with leadership in pedagogy and development of the student education experience through innovative student centred teaching and learning strategies. These strategies include but are not limited to, flipped classrooms, problem based learning and use of classroom response systems for continuous assessment and feedback.  Four times nominated for student teaching awards, including categories of 'Best Feedback' and ‘Most Innovative’ across multiple Universities. Leads and collaborates in scholarship of learning and teaching locally, nationally, and internationally evidenced through internal activities and publication at national and international conferences. An established track record of the design, development and delivery of innovative curriculum, assessment, and feedback across undergraduate and post graduate programmes. Consistent active citizenship through roles such as Deputy Head of Undergraduate Teaching, NSS champion, 4th year project co-ordinator, personal development advisor, and 4th year head. 
+		  
