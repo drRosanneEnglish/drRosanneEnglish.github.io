@@ -21,9 +21,12 @@ Programme Committee UKICER 2020
 
 10th International Computing Education Research Conference (ICER) Member of organising committee, alongside Prof. Quintin Cutts and Dr. Joseph Maguire
 
-## Conferences
+## Peer Review
 Since 2012 I have peer reviewed for a selection of conferences and journals, these are listed below. 
 
+UKICER 2020, 2021
+
+Computing Education Practice 2021
 
 International Conference on Security of Information Networks 2014 (SIN)
 
