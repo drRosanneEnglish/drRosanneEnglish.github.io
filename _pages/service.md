@@ -4,7 +4,6 @@ title:  "Service"
 permalink: /service/
 ---
 
-# Service
 
 
 ## Committees 
