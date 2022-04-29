@@ -33,6 +33,13 @@ International Journal of Human-Computer Studies
 
 SAIEE African Research Journal
 
+## PhD Examinations
+External: Newcastle University (2022)
+Internal : University of Strathclyde (2022)
+
+## PhD Supervision
+
+Catriona Weir, Dyselxia and Programming, Oct 2022- 
 
 ## Teaching 
 Associate Dean of Learning Enhancement (2019- present), Faculty of Science, University of Strathclyde
