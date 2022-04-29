@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: projects
 ---
-# Projects
 
+# Projects
+Stuff
 QAA Internally funded project, Student Resilience Toolkit
