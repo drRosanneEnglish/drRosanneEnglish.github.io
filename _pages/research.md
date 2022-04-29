@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computing Science Education Research
-permalink: /research
+permalink: /research/
 ---
 
 ### Publications
