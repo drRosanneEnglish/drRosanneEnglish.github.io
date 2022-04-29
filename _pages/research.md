@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Computing Science Education Research
+title: Research Publications
 permalink: /research/
 ---
 
-### Publications
 
 ## 2022
 To Appear:
