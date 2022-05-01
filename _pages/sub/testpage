@@ -1,8 +1,9 @@
 ---
 type: page
-permalink: /testpage/
+permalink: /sub/testpage/
 ---
 
 ## test page
+##to set perma link include the subfolder then name
 
 isn't this cool
