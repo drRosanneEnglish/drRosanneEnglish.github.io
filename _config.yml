@@ -60,6 +60,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
 
+#to have sub folders add extra '_pages/subfolder'
 include: ['_pages', '_pages/sub']
 
 paginate: 6
