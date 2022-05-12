@@ -4,5 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-Stuff
-QAA Internally funded project, Student Resilience Toolkit
+
+QAA Internally funded project, Student Resilience Toolkit- with Prof Debra Willison
+
